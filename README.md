@@ -23,6 +23,8 @@
 ### 7、严格模式 
 三个严格检查标记：1.strict 2.noImplicitAny 3.strictNullChecks
 
+***
+
 ## 二、TS类型声明
 ### 1、三个基本类型 string number boolean
 `let str: string = 'hello ts'`
@@ -105,6 +107,8 @@ h = ['hello', 'world']
 ③ 类型的别名
 `type myType = 1| 2| 3| 4`
 `let m: myType`
+
+***
 
 ## 四、面向对象
 ### 1、类
